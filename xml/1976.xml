@@ -6735,7 +6735,7 @@
     <node ID="1.485" type="FN">
       <attributes />
       <extra tree_id="43-3-2-3-3-3" />
-      <edge toID="1.482" type="S">
+      <edge toID="1.483" type="S">
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="S" />
       </edge>
